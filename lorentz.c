@@ -1,7 +1,7 @@
 /**
   Sistema Dinâmico de Lorentz 
   By Alexandre e Joao 
-  7 de Julho de 2024
+  4 de Julho de 2024
 **/
 #include <stdio.h>
 #include <stdlib.h>
