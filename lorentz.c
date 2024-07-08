@@ -25,7 +25,7 @@ int main(void){
     exit(1);
   }
 // discretização das 3 equações
-  for (float t=0.0; t < 140.0 ; t+=dt){
+  for (float t=0.0; t < 500.0 ; t+=dt){
     x = x + SIGMA * ( y - x ) * dt;
     y = y + (x * (TAU - z) - y ) * dt;
     z = z + (x * y - (BETA * z)) * dt;
