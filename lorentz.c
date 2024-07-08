@@ -14,8 +14,8 @@ double BETA  = 8.0 / 3.0;
 int main(void){
   double dt = 0.025;
   double x = 1.25;
-  double y = 2.22;
-  double z = 3.2111;
+  double y = 22.22; ;
+  double z = 33.21;
 
   FILE *fd;
   
